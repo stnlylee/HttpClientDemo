@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HttpClientDemo.Console": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Env": "Development"
+      }
+    }
+  }
+}

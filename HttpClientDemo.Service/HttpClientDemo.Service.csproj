@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HttpClientDemo.Domain\HttpClientDemo.Domain.csproj" />
+    <ProjectReference Include="..\HttpClientDemo.Repository\HttpClientDemo.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
